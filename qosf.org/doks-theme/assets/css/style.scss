@@ -24,13 +24,13 @@
 @import 'tools/responsive-visibility';
 
 /* ----- Base ----- */
-//@import 'generic/normalize';
-//@import 'generic/base';
-//@import 'generic/code';
+@import 'generic/normalize';
+@import 'generic/base';
+@import 'generic/code';
 
 /* ----- Utilities ----- */
-//@import 'utilities/alignment';
-//@import 'utilities/visibility';
+@import 'utilities/alignment';
+@import 'utilities/visibility';
 
 /* ----- Objects ----- */
 //@import 'objects/buttons';
