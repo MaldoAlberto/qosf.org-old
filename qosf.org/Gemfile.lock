@@ -31,6 +31,8 @@ GEM
       terminal-table (~> 1.8)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-latex (1.2.0)
       polytexnic (~> 1.8)
     jekyll-sass-converter (2.2.0)
@@ -93,6 +95,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.6)
+  jekyll-include-cache
   jekyll-latex
   jekyll-sass-converter
   jekyll-target-blank

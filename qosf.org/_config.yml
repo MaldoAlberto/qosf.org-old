@@ -48,6 +48,7 @@ plugins:
 - jekyll-latex
 - jekyll-target-blank
 - jekyll-sass-converter
+- jekyll-include-cache
 
 font-awesome:
   assets: true
