@@ -91,11 +91,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.0.0)
+  jekyll (~> 4.0)
   jekyll-feed (~> 0.6)
   jekyll-latex
+  jekyll-sass-converter
   jekyll-target-blank
   minima (~> 2.0)
+  sassc
   tzinfo-data
   webrick (~> 1.7)
 
