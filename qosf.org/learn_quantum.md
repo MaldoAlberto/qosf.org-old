@@ -68,6 +68,9 @@ Comprehensive catalog of quantum algorithms.
 #### [Quantum Computing Playground](http://www.quantumplayground.net/#/home)
 3D quantum state visualisation tool able to simulate up to 22 qubits.
 
+#### [Quantum in the Cloud](http://cnotmz.appspot.com/#)
+Four qubit photonic quantum simulator and computer.
+
 #### [Quantum Katas](https://github.com/Microsoft/QuantumKatas/)
 Programming exercises for learning quantum computing and Q#.
 
@@ -88,11 +91,14 @@ Series of lecture notes on the MIT quantum information sciences course.
 #### [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0)
 Learn how quantum communication provides security that is guaranteed by the laws of nature.
 
-#### [Quantum Information Science I, Part I](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/about)
+#### [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i)
 Foundational course on quantum information and computation.
 
 #### [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x)
 Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
+
+#### [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
+Conceptual introduction to the fundamental principles of quantum mechanics.
 
 #### [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing)
 Introduction to the key concepts of quantum computing with minimal mathematics.
@@ -103,7 +109,7 @@ A web class for _high school students_. Organized by [QuSoft](http://www.qusoft.
 #### [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning)
 Hands-on introduction to quantum computing and quantum-enhanced machine learning, complete with a [code repo](https://gitlab.com/qosf/qml-mooc/).
 
-#### [Quantum Computing. Less Formulas - More Understanding](https://online.spbu.ru/quantum-computing-less-formulas-more-understanding/)
+#### [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu)
 An introductory course on Quantum Computing, focusing more on concepts.
 
 #### [Quantum Technology: Detectors and Networking](https://www.edx.org/micromasters/purduex-quantum-technology-detectors-and-networking?index=product&queryID=b3d92b1eebc019dc082bb40feca0f978&position=3)
@@ -145,10 +151,10 @@ Introduction to fundamentals of classical and quantum computing.
 #### [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#)
 Easy to advanced quantum computing and information problems with detailed solutions.
 
-#### [Quantum Computation and Quantum Information](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)
+#### [Quantum Computation and Quantum Information](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf)
 Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
 
-#### [Quantum Computing: A Gentle Introduction](https://www.amazon.com/Quantum-Computing-Introduction-Engineering-Computation/dp/0262526670)
+#### [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
 Explains quantum computing with only basic college maths knowledge needed.
 
 #### [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993)
