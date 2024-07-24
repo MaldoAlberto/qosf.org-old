@@ -42,11 +42,12 @@ doks:
 # SASS settings
 sass:
     sass_dir: ./doks-theme/_sass
-    style: :compressed
-
+    style: compressed
+    
 plugins:
 - jekyll-latex
 - jekyll-target-blank
+- jekyll-sass-converter
 
 font-awesome:
   assets: true
