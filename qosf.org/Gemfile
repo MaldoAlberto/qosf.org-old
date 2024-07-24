@@ -12,7 +12,7 @@ gem "jekyll", "~> 4.0.0"
 gem 'jekyll-sass-converter'
 gem 'sassc'
 gem 'jekyll-latex'
-gem 'faraday', '~> 2.7', '>= 2.7.11'
+#gem 'faraday', '~> 2.7', '>= 2.7.11'
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 

@@ -43,6 +43,7 @@ doks:
 sass:
     sass_dir: ./doks-theme/_sass
     style: compressed
+    cache: false
     
 plugins:
 - jekyll-latex
